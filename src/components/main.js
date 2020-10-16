@@ -19,7 +19,7 @@ export default class Main extends Component {
 						<div className="container">
 
 							<header>
-								<h2 className="alt">Hello, I am currently enrolled in a Full-Stack Coding bootcamp at The University of Texas at San Antonio.<br />
+								<h2 className="alt">Hello, I am a recent graduate from a Full-Stack Coding bootcamp at The University of Texas at San Antonio aiming to leverage my proven management and collaboration skills set to begin applying FullStack knowledge in order to build interactive/user centered website designs to scale.<br />
 								</h2>
 								<p></p>
 							</header>
