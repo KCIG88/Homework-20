@@ -114,7 +114,7 @@ export default class Main extends Component {
 
 							<a href="#" className="image featured"><img src={IMG_0373} alt="" /></a>
 
-							<p>I am 37 years old happily married to an amazing woman and we have 2 awesome dogs <text className="fa fa fa-dog"></text>, in August we welcomed our wonderful baby boy Desmond aka Desi into the world. <text className="fa fa fa-baby-carriage">.</text> I most recently worked as a retail facilities maintenance engineer but would like to soon make the transition into tech world and eventually full-stack web development. </p>
+							<p>I am 37 years old happily married to an amazing woman and we have 2 awesome dogs <text className="fa fa fa-dog"></text>, in August we welcomed our wonderful baby boy Desmond aka Desi into the world. <text className="fa fa fa-baby-carriage">.</text> For the last 5 years I worked as a retail facilities maintenance engineer, but am making the transition into tech world and eventually full-stack web development. </p>
 
 						</div>
 					</section>
